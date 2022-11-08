@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: http://adsb.dextercai.com/sitemap.xml
